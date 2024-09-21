@@ -256,3 +256,19 @@ path "initial/cant" {
 ```
 
 - Click **Save**
+
+
+## Vault cli
+
+```bash
+vault operator unseal # unseals vault 
+vault login # use token 
+valult secrets list # lists all secrets
+
+
+```
+
+
+|update||
+|---|----|
+|||
